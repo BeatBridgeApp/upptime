@@ -5,9 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: API
     url: https://beatbridge-api.api.beatbridge.dev/_/
-  - name: API ping
+  - name: API tcp-ping 80
     url: beatbridge-api.api.beatbridge.dev
     port: 80
+    check: "tcp-ping"
+  - name: API tcp-ping 443
+    url: beatbridge-api.api.beatbridge.dev
+    port: 443
     check: "tcp-ping"
 
 status-website:
