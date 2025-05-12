@@ -4,9 +4,9 @@
     "url": "https://beatbridge-api.api.beatbridge.dev/_/",
     "icon": "https://icons.duckduckgo.com/ip3/beatbridge-api.api.beatbridge.dev.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 714,
     "timeMonth": 676,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   },
   {
     "name": "API tcp-ping 80",
     "url": "beatbridge-api.api.beatbridge.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-tcp-ping-80",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +35,16 @@
     "timeWeek": 201,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   },
   {
     "name": "API tcp-ping 443",
     "url": "beatbridge-api.api.beatbridge.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-tcp-ping-443",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 200,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-12": 0
+    }
   }
 ]
