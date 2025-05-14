@@ -6,15 +6,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 675,
-    "timeDay": 662,
-    "timeWeek": 701,
-    "timeMonth": 683,
-    "timeYear": 675,
+    "time": 677,
+    "timeDay": 730,
+    "timeWeek": 693,
+    "timeMonth": 680,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2025-05-12": 19
     }
@@ -26,15 +26,15 @@
     "slug": "api-tcp-ping-80",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 193,
-    "timeDay": 190,
+    "time": 194,
+    "timeDay": 215,
     "timeWeek": 196,
-    "timeMonth": 192,
-    "timeYear": 193,
+    "timeMonth": 191,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-05-12": 19
     }
@@ -46,15 +46,15 @@
     "slug": "api-tcp-ping-443",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 193,
-    "timeDay": 190,
+    "time": 194,
+    "timeDay": 215,
     "timeWeek": 195,
     "timeMonth": 191,
-    "timeYear": 193,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2025-05-12": 19
     }
