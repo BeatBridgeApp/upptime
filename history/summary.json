@@ -4,11 +4,11 @@
     "url": "https://beatbridge-api.api.beatbridge.dev/_/",
     "icon": "https://icons.duckduckgo.com/ip3/beatbridge-api.api.beatbridge.dev.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 672,
     "timeDay": 576,
@@ -16,6 +16,7 @@
     "timeMonth": 673,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2025-05-16": 2,
       "2025-05-12": 19
     }
   },
