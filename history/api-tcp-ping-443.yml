@@ -1,7 +1,7 @@
 url: beatbridge-api.api.beatbridge.dev
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-18T14:58:26.871Z
+status: up
+code: 200
+responseTime: 218
+lastUpdated: 2025-06-18T18:17:18.636Z
 startTime: 2025-04-13T01:35:44.097Z
 generator: Upptime <https://github.com/upptime/upptime>
